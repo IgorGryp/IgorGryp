@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Weather App**
 
-- 🌱 I’m currently learning **React, Next.js, Tailwind**
+- 🌱 I’m currently learning **Next.js, Tailwind**
 
 - 📫 How to reach me **igor.gryp@gmail.com**
 
