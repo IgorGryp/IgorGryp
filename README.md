@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">A passionate frontend developer from Stockholm, Sweden</h3>
 
-- 🔭 I’m currently working on **Weather App**
-
-- 🌱 I’m currently learning **Next.js**
-
 - 📫 How to reach me **igor.gryp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
