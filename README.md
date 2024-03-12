@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Stockholm, Sweden</h3>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/igor-grypishyn-6b9998204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-grypishyn-6b9998204" height="30" width="40" /></a>
 
-<a href="http://igordev.se/" target="blank"><img align="center" src="https://assets.pinterest.com/ext/embed.html?id=859906122631173034" alt="igor-grypishyn-6b9998204" height="30" width="40" /></a>
-  
+<a href="http://igordev.se/" target="blank"><img align="center" src="https://photos.google.com/photo/AF1QipMC5yqdnDu7wFCfkh8FRGGoY_e7t1MfrKRVj9Om" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
