@@ -11,14 +11,14 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczMHuQ8U2k9722KZebYW-_mz9ujI2TuV4TtKAXzP0AA4KvIgxVVZV2x_kr9ZpdwfUwTaxKbwxA03SGA9JMKJL0IQ0dbqcJknAV2ujdaMQO2QGJ8rhN0j59DMldOStZVtY9Z1v0xJ6rUG4ba93jhCzP130r-1G2Bf3OPgfi7Q4CD8fndm99q-0PIyF4sD-tmpMj6Fgxy-2gCsaNlHys-4PQS1FNX20Ec_WxlumhD8f6xXqIRoZJQT6etM_ji3EJ-c-zTTZtJt8QC3WJYL8PIT4If67zPDLb7i___yGR2frBZjnsQc4pt6_TF23UFle32veDod09MZb1BbnpWSaV7TwNjjJ0W3PFiYZIW9DqxtYK8kWuJlsXhoBVgzLoXYyzKc8H9bNGOO48XaMPXLGC17ctWKvTzIL_NtERfvemfToXGnog1ZvYTh5O8B736cgGahKpc-61qNoxWpmgmWOTVjEh81ZwwOPLk3iXLUi-ZqNUdpw77Eilg6xTjLUIB0x1tdEDAj1IfSQD4qe7HPq5QFrj4-PV2INSnOvV0QSZzzutli-mfFtDD4Q4uiLD_7777MAI1LK6PBtBm4t9EQ0c4LLo-3_d2-SfFHELZLKiYvqyr6ZA0aUMmsna2xCtv9Qz20FgfHGQJJpis0pT9l5cM_FZfKd-sGT4dhwgO362TbvM75cHAPke1bOho-Ro2Mh0YgZMIvCO76im7_JmtdoeooJ_bomZ00F4Phb5DtXNvGyoCOpvJUOTPdjRZDfASMvVRYjLueoPTGTGl87XQ-XmDSHHM-oGb1r3z6OUoeVRWUFjTu-fzv688ki5onQFuaqysn-IGIAA6Q_PqNkd8Y65KHbWrwKkm2MAvhg7B39oJ5oh1f19Pt5ZaYb8Rd5x_MCey-zBakNqjsXUUVEXO68Vz5cwAp0qWkyrnodhepwCl8PpLHz5z89uPuCF4BnDx3_g=w378-h301-s-no-gm?authuser=0" alt="bootstrap" width="50" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
