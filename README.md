@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/igor-grypishyn-6b9998204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-grypishyn-6b9998204" height="30" width="40" /></a>
 
-<a href="http://igordev.se/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/www_10254207?term=www&page=1&position=36&origin=search&related_id=10254207&k=1710272237605&log-in=google" alt="igor-grypishyn-6b9998204" height="30" width="40" /></a>
+<a href="http://igordev.se/" target="blank"><img align="center" src="https://assets.pinterest.com/ext/embed.html?id=859906122631173034" alt="igor-grypishyn-6b9998204" height="30" width="40" /></a>
 
 
   
