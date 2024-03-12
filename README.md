@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/igor-grypishyn-6b9998204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-grypishyn-6b9998204" height="30" width="40" /></a>
 
-<a href="http://igordev.se/" target="blank"><img align="center" src="https://photos.google.com/photo/AF1QipMC5yqdnDu7wFCfkh8FRGGoY_e7t1MfrKRVj9Om" height="30" width="40" /></a>
+<a href="http://igordev.se/" target="blank"><img align="center" src="https://lh3.googleusercontent.com/pw/AP1GczN-h2MtQowDnJVyRg3j-SHdDTVZFR9sP_8ymeGzwiWdATAsaEKeb1F08FzecTplUrNkMC6IodPscsEluQy4TFNOmfjnysAMjOeqjD7mjVao_8HjdV7Bmp2l1APJyOS1vizTQ3Rr2ByBXJbA7iJbWVyO36H7YL6RW3l1TiWT_QXtw9otrvcYbBIoQP4DAVUsHgsAGYktm0eX0z06e4SFGuNZTiT-tsX7Q1zhY-7tU2sF99dfT1YUAuUJ3SpY1fwhEev0Q4Fl4G5hwLzEebrwCWNv2EnuMKTIdDtUERqLfCmGX255sOvfzf0RRgO1qedshsE5xCwONFEEgmd9KNMhWy9avy3tBsyygvPrDksgRURLG0vUA4y0GLNtAALege4P3TWUpas6xfntrJ1ziLpQkOdr19lLYCd6KoIQt9EQEYOKU6H76e6DKKDbg1XQ5MS1aXxNvffdykXZZOpb9ZE6IjREfiP7bPBIYyOzknwq5ftmbUC_sCkcoyE75lSO0XXu9WD4L5hnC5myDMqi_n1ANBXPGMbYiEzS_oFeKckg1MrrtFmtmYSE0DGpRUzabcGpMEOIeMmHQeHM38dy2oIwILng60JSxTU3CG1tpOhzO_HOb5PM00ETbeqFgQvnHPD_jGjV8ev0GJQJECMI4enZIzjT2SITQanPzumo9_vY0Y8QF-ADc79uJL1ppycd-StK1bPcp3IeV7AZ7SK_DkpCJYyLjewH8rtSrWfC71ZH9J6WXhzkEeYDwhux6YJrmkmnrmF5UreB7VKSy-610JGF6tma1mtGyp1XL545w9QF5J10A4XsTvRoMaBJ3yDTrmU4yzF61EDRugt6mKunRkj6OrMaaJ-m3gydrn3OIGik28J6xcXfduWmqAGTfn0GSV0e3L-qf1QGvczg4Bzl_ufs2lloWTbaiVmkRwfU9_gkNEu3WLaXIRQWR0UFPCs0Trs=w1530-h1530-s-no-gm?authuser=0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
