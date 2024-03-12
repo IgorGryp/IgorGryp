@@ -6,10 +6,6 @@
 <a href="https://linkedin.com/in/igor-grypishyn-6b9998204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-grypishyn-6b9998204" height="30" width="40" /></a>
 
 <a href="http://igordev.se/" target="blank"><img align="center" src="https://assets.pinterest.com/ext/embed.html?id=859906122631173034" alt="igor-grypishyn-6b9998204" height="30" width="40" /></a>
-
-<a href="http://igordev.se/" target="blank"><iframe src="https://assets.pinterest.com/ext/embed.html?id=859906122631173034" height="445" width="345" frameborder="0" scrolling="no" ></iframe></a>
-
-
   
 </p>
 
