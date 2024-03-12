@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">A passionate frontend developer from Stockholm, Sweden</h3>
 
-- 📫 How to reach me **igor.gryp@gmail.com**
+- 📫 How to reach me **(http://igordev.se/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
