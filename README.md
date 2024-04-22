@@ -4,8 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/igor-grypishyn-6b9998204" target="blank"><img align="center" src="https://raw.githubusercontent.com/IgorGryp/logos/e2132e0ec2bfa1d4987f603d682ea2ede76c404f/linkedin/linked-in-logo.svg" alt="igor-grypishyn-6b9998204" height="40" width="40" /></a>&ensp;
-<a href="http://igordev.se/" target="blank"><img align="center" src="https://raw.githubusercontent.com/IgorGryp/logos/main/www/www-logo.png?token=GHSAT0AAAAAACGXC7LHOZBEXVKG6BLVHVO4ZPQ5UUA" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/igor-grypishyn-6b9998204" target="blank"><img align="center" src="https://raw.githubusercontent.com/IgorGryp/logos/e2132e0ec2bfa1d4987f603d682ea2ede76c404f/linkedin/linked-in-logo.svg" alt="igor-grypishyn-linkedin" height="40" width="40" /></a>&ensp;
+<a href="http://igordev.se/" target="blank"><img align="center" src="https://github.com/IgorGryp/logos/blob/main/website/website-icon-01.svg" height="40" width="40" /></a>&ensp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
