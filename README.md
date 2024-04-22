@@ -25,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/db5d4bad5e8751dc1e09204f25a110bbfccbffee/nodejs/nodejs-logo.svg" alt="node js" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&ensp;
+<img src="https://github.com/IgorGryp/logos/blob/main/expressjs/expressjs-logo.svg" alt="express" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/cc6f40dd26ad46826c0d1f076b486927d2019b1b/postman/postman-logo.svg" alt="postman" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/cc6f40dd26ad46826c0d1f076b486927d2019b1b/figma/figma-logo.svg" alt="figma" width="40" height="40"/>&ensp;
