@@ -26,4 +26,5 @@
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/cc6f40dd26ad46826c0d1f076b486927d2019b1b/postman/postman-logo.svg" alt="postman" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
