@@ -20,12 +20,14 @@
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/ab2b75ae77a100725364036189992c0354f6137e/tailwind/tailwind-logo.svg" alt="tailwind" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/b6d88a19d13fdd26c3ffd3acaa73622cff822083/react/react-logo.svg" alt="react" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/d92c6ec2f5c40872702d67323f81104756c99cf9/redux/redux-logo.svg" alt="redux" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/IgorGryp/logos/db5d4bad5e8751dc1e09204f25a110bbfccbffee/nodejs/nodejs-logo.svg" alt="node js" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/IgorGryp/logos/cc6f40dd26ad46826c0d1f076b486927d2019b1b/figma/figma-logo.svg" alt="figma" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/IgorGryp/logos/cc6f40dd26ad46826c0d1f076b486927d2019b1b/git/git-logo.svg" alt="git" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/IgorGryp/logos/cc6f40dd26ad46826c0d1f076b486927d2019b1b/postman/postman-logo.svg" alt="postman" width="40" height="40"/>&ensp;
+
+
+<img src="https://raw.githubusercontent.com/IgorGryp/logos/db5d4bad5e8751dc1e09204f25a110bbfccbffee/nodejs/nodejs-logo.svg" alt="node js" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/IgorGryp/logos/cc6f40dd26ad46826c0d1f076b486927d2019b1b/postman/postman-logo.svg" alt="postman" width="40" height="40"/>&ensp;
+<img src="https://raw.githubusercontent.com/IgorGryp/logos/cc6f40dd26ad46826c0d1f076b486927d2019b1b/figma/figma-logo.svg" alt="figma" width="40" height="40"/>&ensp;
+<img src="https://raw.githubusercontent.com/IgorGryp/logos/cc6f40dd26ad46826c0d1f076b486927d2019b1b/git/git-logo.svg" alt="git" width="40" height="40"/>&ensp;
 </p>
