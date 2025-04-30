@@ -12,7 +12,7 @@
 
 <p align="left">
 <img src="https://github.com/IgorGryp/logos/blob/0f7c9538285caa169059bf9309af0d083a6cdd7c/html/html-logo.svg" alt="html5" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/IgorGryp/logos/1e74f9e8b2de6aa4ccc10fa6effac3a933070d53/css/css-logo.svg?token=AS3KNL6I34KQ4JTBSVGU2QDF6DWG2" alt="css3" width="40" height="40"/>&ensp;
+<img src="https://github.com/IgorGryp/logos/blob/0f7c9538285caa169059bf9309af0d083a6cdd7c/css/css-logo.svg" alt="css3" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/b6d88a19d13fdd26c3ffd3acaa73622cff822083/react/react-logo.svg" alt="react" width="40" height="40"/>&ensp;
