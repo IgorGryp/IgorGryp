@@ -8,7 +8,7 @@
 <a href="http://igweb.se/" target="blank"><img align="center" src="https://github.com/IgorGryp/logos/blob/main/cv/curriculum-vitae-09.svg" height="40" width="40" /></a>&ensp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack and Tools:</h3>
 
 <p align="left">
 <img src="https://github.com/IgorGryp/logos/blob/0f7c9538285caa169059bf9309af0d083a6cdd7c/html/html-logo.svg" alt="html5" width="40" height="40"/>&ensp;
