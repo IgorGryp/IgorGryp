@@ -17,10 +17,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/b6d88a19d13fdd26c3ffd3acaa73622cff822083/react/react-logo.svg" alt="react" width="40" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/d92c6ec2f5c40872702d67323f81104756c99cf9/redux/redux-logo.svg" alt="redux" width="40" height="40"/>&ensp;
-<img src="https://github.com/IgorGryp/logos/blob/main/sass/sass-icon-01.svg" alt="sass" width="40" height="40"/>&ensp;
 <img src="https://github.com/IgorGryp/logos/blob/0f7c9538285caa169059bf9309af0d083a6cdd7c/bootstrap/bootstrap-logo.svg" alt="bootstrap" width="50" height="40"/>&ensp;
 <img src="https://github.com/IgorGryp/logos/blob/e292a5734916b320d1e12db241142c69bffacaec/react%20bootstrap/react-bootstrap-logo.svg" alt="react bootstrap" width="50" height="40"/>&ensp;
 <img src="https://raw.githubusercontent.com/IgorGryp/logos/ab2b75ae77a100725364036189992c0354f6137e/tailwind/tailwind-logo.svg" alt="tailwind" width="40" height="40"/>&ensp;
+<img src="https://github.com/IgorGryp/logos/blob/main/sass/sass-icon-01.svg" alt="sass" width="40" height="40"/>&ensp;
 
 
 
